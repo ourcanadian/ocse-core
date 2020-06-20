@@ -1,2 +1,4 @@
-# ocse-core
-OurCanadian Search Engine Core
+# OCSE Core
+
+Here will be the repo of our Search Engine
+
