@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'coast_to_coast.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'coast_to_coast (+http://www.yourdomain.com)'
+USER_AGENT = 'OurCanadianCrawler (+http://wiki.ourcanadian.ca)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
