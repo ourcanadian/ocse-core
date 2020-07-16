@@ -5,8 +5,9 @@
 git clone https://github.com/ourcanadian/ocse-core.git
 ```
 
-## Make sure Scrapy is installed
+## Make sure all requirements are installed
 ```
-pip3 install scrapy
+cd ocse-core
+python3 -m pip install requirement.txt
 ```
 
